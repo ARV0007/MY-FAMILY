@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Family Safety</string>
     <string name="security">Security</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="User">User</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aman">aman</string>
+    <string name="default_web_client_id_auth"> 561443296689-3mrk40isoug097m54odr9q4dkb4qkdsp.apps.googleusercontent.com</string>
 </resources>
